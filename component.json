@@ -1,0 +1,15 @@
+{
+  "name": "angular-chosen",
+  "description": "Integration of AngularJs and the Chosen plugin",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yahyaKacem/angular-chosen.git"
+  },
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "chosen": "~0.9.8",
+    "bootstrap": "~2.2.2"
+  },
+  "_id": "angular-chosen.js@0.0.1"
+}
